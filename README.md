@@ -1,6 +1,9 @@
 # Blog-Django-Project
 It is a blog project that is made by the Django framework and python as backend. In this project I use the Python3 and Django and Sqlite3 database. And also use the RESTful Api with the CRUD Functionality and Admin authentication to use full features of the blog project.
 
+
+# Blog  ![Image](https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-blog-digital-content-wanicon-lineal-color-wanicon.png)  
+
 ![Image 1](https://github.com/anikushalam/Blog-Django-Project/blob/main/screenshot/Screenshot1.png)  
 ![Image 2](https://github.com/anikushalam/Blog-Django-Project/blob/main/screenshot/Screenshot2.png)  
 ![Image 3](https://github.com/anikushalam/Blog-Django-Project/blob/main/screenshot/Screenshot3.png)  
